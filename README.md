@@ -11,9 +11,9 @@
  - URL path : http://localhost:5000/api
  - Parameters
 
- | Parameter     | Query string  |
- | ------------- | ------------- |
- |  Length       |     len       |
- |  Width        |     widt      |
+   | Parameter     | Query string  |
+   | ------------- | ------------- |
+   |  Length       |     len       |
+   |  Width        |     widt      |
  
  ### Sample URL  : http://localhost:5000/api?filename=img2&len=600&wid=600
