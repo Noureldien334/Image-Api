@@ -8,4 +8,11 @@
   - Cross-platform Pathing wasn't applied, so It will raise FileNotFound errors if it's being run on Windows
    
 ## How to use the Api
- - 
+ - URL path : http://localhost:5000/api
+ - Parameters
+ | Parameter     | Query string  |
+ | ------------- | ------------- |
+ |  Length       |     len       |
+ |  Width        |     widt      |
+ 
+ ### Sample URL  : http://localhost:5000/api?filename=img2&len=600&wid=600
