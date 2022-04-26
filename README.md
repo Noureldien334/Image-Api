@@ -9,7 +9,7 @@
    
 ## How to use the Api
  - URL path : http://localhost:5000/api
- - 
+ - Parameters
  | Parameter     | Query string  |
  | ------------- | ------------- |
  |  Length       |     len       |
