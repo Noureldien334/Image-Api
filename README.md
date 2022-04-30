@@ -13,6 +13,7 @@
 
    | Parameter     | Query string  |
    | ------------- | ------------- |
+   |  Image        |     filename  |
    |  Length       |     len       |
    |  Width        |     wid       |
  
