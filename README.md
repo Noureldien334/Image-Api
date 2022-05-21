@@ -1,4 +1,4 @@
-# Image Api  
+# Resizing Image Api  
   - This is an ImageApi resizing project, that takes a picture's name, length and width, and resizes it
   - img file, contains the images to be resized
   - thumbs file is the output file after resizing an image
