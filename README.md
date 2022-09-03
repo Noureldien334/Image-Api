@@ -2,6 +2,8 @@
   - This is an ImageApi resizing project, that takes a picture's name, length and width, and resizes it
   - img file, contains the images to be resized
   - thumbs file is the output file after resizing an image
+  - Used Caching in case the picture was already Resized
+  - Unit testing was made using Jasmine
   
 ## Important notes  
   - This project was developed on Ubuntu
