@@ -7,7 +7,7 @@
   
 ## Important notes  
   - This project was developed on Ubuntu
-  - Cross-platform Pathing wasn't applied, so It will raise FileNotFound errors if it's being run on Windows
+  - Cross-platform Pathing wasn't applied, so It will raise FileNotFound error if it's being run on Windows
    
 ## How to use the Api
  - URL path : http://localhost:5000/api
