@@ -20,3 +20,10 @@
    |  Width        |     wid       |
  
  ### Sample URL  : http://localhost:5000/api?filename=img2&len=600&wid=600
+ 
+<h2 align="center">Built With </h2>
+
+-   [Node.js](https://nodejs.org/en/)
+-   [Express](https://expressjs.com/)
+-   [Jasmine](https://jasmine.github.io/)
+<hr>
